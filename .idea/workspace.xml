@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a2d9cf-0f3b-42b4-aefc-37cb13d4781f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Board.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/GameOver.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/InputNames.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/MainMenu.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/TopPlayers.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/board.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BoardGameApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BoardGameApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BoardGameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BoardGameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GameOverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GameOverController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InputNamesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InputNamesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/JacksonHelper/JacksonHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/JacksonHelper/JacksonHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MainMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MainMenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TopPlayersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TopPlayersController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/BoardGameModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/BoardGameModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/result/GameResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/result/GameResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/result/GameResultManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/result/GameResultManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/result/JSONGameResultManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/result/JSONGameResultManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/result/PlayerStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/result/PlayerStatistics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +78,18 @@
       <option name="presentableId" value="Default" />
       <updated>1698963584718</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fxml, results.json, checkstyle.xml files are added">
+      <created>1701730567649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701730567649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fxml, results.json, checkstyle.xml files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fxml, results.json, checkstyle.xml files are added" />
   </component>
 </project>
