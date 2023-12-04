@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="292.0" prefWidth="218.0" style="-fx-background-color: #7fffd4;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.TopPlayersController">
+    <children>
+        <TableView fx:id="tableView" layoutX="6.0" layoutY="11.0" prefHeight="211.0" prefWidth="200.0">
+            <columns>
+                <TableColumn fx:id="winnerName" prefWidth="75.0" text="Name" />
+                <TableColumn fx:id="numberOfWins" prefWidth="75.0" text="Score" />
+            </columns>
+        </TableView>
+        <Button fx:id="BackButton" layoutX="20.0" layoutY="247.0" mnemonicParsing="false" onAction="#switchToMainMenu" text="Back" />
+    </children>
+</AnchorPane>
